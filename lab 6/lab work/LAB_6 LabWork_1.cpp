@@ -1,6 +1,6 @@
-// Name: Talha Ali
+// Name: Dure yazdan
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0728
+// Registration No: BF25NWELE0756
 // Section: A
 
 #include <iostream>
