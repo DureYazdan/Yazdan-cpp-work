@@ -1,6 +1,6 @@
-// Name: Talha Ali
+// Name: Dure Yazdan
 // CEP: Relative Grading System
-// Student: Talha Ali | Reg: BF25NWELE0728
+// Student: Dure yazdan | Reg: BF25NWELE0756
 // Semester 2 | UET Peshawar, Nowshera Campus
 // =====================================================
 
